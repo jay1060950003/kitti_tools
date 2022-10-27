@@ -1,0 +1,8 @@
+# Usage: pip install -r requirements.txt
+
+warnings
+xml
+cv2
+imageio
+numpy
+tqdm
